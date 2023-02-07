@@ -1,8 +1,8 @@
 # Social_Distance_Guardian(Covid-19 Project) 😷
 
-*TV remote too far* (◐▂◑ ) 
-<p> 💡Let me use REMOTEMATE to grab the remote! 😉 </p>
-<p> WOOOO 😝 </p>
+*BEEP BEEP BEEP* 😦
+<p> WHOA BUDDY! YOU ARE TO CLOSE TO ME, BACK UP 😷 </p>
+<p> NO MORE COVID 😄 </p>
  
 
 ## Project Summary
@@ -35,12 +35,12 @@ prototype is completely functional and all promised features have been delivered
 The first prototype for the admin device are shown below. 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/57046416/217137512-046d1e5d-38b9-4418-9ba3-fa388ed9a0e0.png)"/>
+  <img src="https://user-images.githubusercontent.com/57046416/217137512-046d1e5d-38b9-4418-9ba3-fa388ed9a0e0.png"/>
 </p>
 
 The first prototype for the admin device that will be implemented later on are shown below
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/57046416/217137621-4e044240-0499-42ce-afcb-55a0e046ebca.png)"/>
+  <img src="https://user-images.githubusercontent.com/57046416/217137621-4e044240-0499-42ce-afcb-55a0e046ebca.png"/>
 </p>
 
 
@@ -48,12 +48,11 @@ The first prototype for the admin device that will be implemented later on are s
 The final prototype for the beacons are shown below.
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/57046416/217138114-6e0c8e42-46d5-46d4-b032-f3723ee40d22.png)"/>
+  <img src="https://user-images.githubusercontent.com/57046416/217138114-6e0c8e42-46d5-46d4-b032-f3723ee40d22.png"/>
 </p>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/57046416/217138556-df4d6427-561e-42f2-aa00-b70774aa99d0.png)
-"/>
+  <img src="https://user-images.githubusercontent.com/57046416/217138824-bc000baa-7981-49da-82f0-e7d5d14fad06.png"/>
 </p>
 
 
