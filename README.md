@@ -16,8 +16,8 @@ https://www.laviasolutions.ca/product
 - Admin Device 
   - The device need a main device which we will call it admin device. This Device will control the social distance guardian beacon and will allow certain functions to pass through.
 - Social Distance Guardian 
-  - The social distance guardian and the admin device use Bluetooth to communicate with each other. The Bluetooth module that is used in the device is called HM-10 module. Each device has two Bluetooth modules, one of them is the broadcaster. This broadcasts the signal to other devices. For the admin device, the broadcaster sends the command through the broadcaster to the beacons when a button is pressed respectively. For the beacons the broadcaster is always sending out a signal, if another two beacons are placed and one beacon comes in the range of the other beacons, the beacons will know because the broadcaster is always sending signals. The other Bluetooth module is the observer, this observes the data and send it to Arduino. For the admin the observer is only used to find the beacons ID, so it can send proper commands for each beacon. For the beacons as explained before, if another beacon comes in range, the observer will know that the beacon is in the range due to the other broadcaster sending its signal and the beacon will start alarming.
-
+  - The Social Distance Guardian and the Admin Device communicate with each other using Bluetooth technology. The device utilizes an HM-10 Bluetooth module for this purpose. Each device has two Bluetooth modules: a broadcaster and an observer. The broadcaster sends signals to other devices and the observer receives and sends data to the Arduino. In the case of the Admin Device, the broadcaster sends commands to the beacons when a button is pressed, while the observer is used to identify the beacons' IDs. On the other hand, the beacons constantly broadcast signals and the observer detects when another beacon comes in range, triggering an alarm.
+  
 ## Features
 ### User access levels
 - REGISTER: This will register the beacon for IN-CIRCLE to be activated.
