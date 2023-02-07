@@ -20,11 +20,18 @@ https://www.laviasolutions.ca/product
 
 ## Features
 ### User access levels
-•	REGISTER: This will register the beacon for IN-CIRCLE to be activated.
-•	IN-CIRCLE: If a group of people have two beacons the user has to activate IN-CIRCLE so the beacon doesn’t beep when it’s around.
-•	SLEEP: This will put the beacon into sleep mode.
-•	CALIBRATION: This will set the distance the user wants for the beacon.
-•	REGISTER PHONE: This will register the phone for IN-CIRCLE to be activated.
+- REGISTER: This will register the beacon for IN-CIRCLE to be activated.
+- IN-CIRCLE: If a group of people have two beacons the user has to activate IN-CIRCLE so the beacon doesn’t beep when it’s around.
+- SLEEP: This will put the beacon into sleep mode.
+- CALIBRATION: This will set the distance the user wants for the beacon.
+- REGISTER PHONE: This will register the phone for IN-CIRCLE to be activated.
+
+### User Friendly
+- Family members  alarm deactivation
+- Longer distance threshold for higher risk users
+- Master device in a store can control other devices
+- Group battery charging Stackable design for each battery charging 
+- Easy disinfection for circulation
 
 
 ## Prototype
@@ -60,7 +67,7 @@ The final prototype for the beacons are shown below.
 ## Next steps
 
 Things to improve:
-- Make a cell phone application that does the same thing as social distance guardian
+- Make the range better and make a better admin cover 
 
 
 
