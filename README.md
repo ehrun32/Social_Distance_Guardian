@@ -52,7 +52,8 @@ The final prototype for the beacons are shown below.
 </p>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/57046416/217138219-2b58eec1-a8e4-4786-a3a6-eee325be80e6.png)"/>
+  <img src="![image](https://user-images.githubusercontent.com/57046416/217138556-df4d6427-561e-42f2-aa00-b70774aa99d0.png)
+"/>
 </p>
 
 
