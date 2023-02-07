@@ -3,7 +3,6 @@
    Version: Lavia_Admin V4.0
    Date: Aug 8, 2020
    Author: Arun Cheriakara
-   Company: Lavia Solutions Inc.
    
  *************************************************/
 /*
